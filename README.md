@@ -108,10 +108,7 @@ pages, he/she if redirected to the index page of the website. In this case, clic
 the user to the index page.
 Once the user is logged in, he/she cannot navigate to either the index page or the login page and is redirected to the
 home page. In this case, clicking on the logo from any page redirects the user to the home page.
-## Author
-* **Sarvesh Kumar Sharma** -(https://github.com/shsarv)
 
-## Acknowledgments
 
-* for any enquiry email-(**shsarv@gmail.com**)
+
 

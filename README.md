@@ -1,6 +1,6 @@
 # Web development Project
 
-A E-coomerce Website name **E-store**. The website consist of 8 HTML/php pages.The website consist of HTML, CSS,
+A E-commerce Website name **E-store**. The website consist of 8 HTML/php pages.The website consist of HTML, CSS,
 BOOTSTRAP, PHP and MYSQLI code. The HTML, CSS and BOOTSTRAP part of this code decides 
 website look, while the PHP and MySQL part decides  it functions.
 
